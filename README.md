@@ -1,2 +1,0 @@
-# varta
-for app
